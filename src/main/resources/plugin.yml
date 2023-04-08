@@ -1,0 +1,4 @@
+name: WaterWalk
+version: '${project.version}'
+main: org.waterwalk.WaterWalk
+api-version: 1.18
